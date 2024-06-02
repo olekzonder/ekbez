@@ -5,3 +5,4 @@ pandas
 st-pages
 sympy
 scipy
+plotly
