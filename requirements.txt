@@ -6,3 +6,4 @@ st-pages
 sympy
 scipy
 plotly
+openpyxl
